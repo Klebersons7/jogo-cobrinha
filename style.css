@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+.jogo{
+    display: flex;
+    justify-content: center;
+}
+.span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: lightgreen;
+    font-weight: bold;
+    font-size: 50px;
+    padding: 5rem 0;
+}
